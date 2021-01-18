@@ -6,9 +6,9 @@ body{
 }
 
 .head{
-    height: 50px;
+    height: 30%;
     /* border: 2px solid red; */
-    background-color: rgb(255, 127, 244);
+    background-color: rgb(152, 211, 145);
     margin-top:0 auto;
     
     
@@ -20,7 +20,7 @@ display: inline;
 }
 .topBtn1{
     text-decoration: none;
-    background-color: lightgreen;
+    background-color: rgb(194, 238, 144);
     padding: 8px 15px;
 
    
@@ -41,7 +41,7 @@ display: inline;
 .container{
     height: 500px;
     border: 2px solid ;
-    background-color: rebeccapurple;
+    background-color: rgb(121, 195, 238);
 }
 
 .main{
@@ -53,15 +53,16 @@ display: inline;
     height: 300px;
     margin-top: 5%;
     border-radius: 10px;
-  
+
+     
 }
 .main2{
      /* text-align: center; */
      margin-left: 500px;
      /* border: 2px solid palegreen; */
-     width: 30%;
+     width: 50%;
      background-color:lightgreen;
-     height: 200px;
+     height: 50%;
      margin-top: 5%;
     border-radius: 10px;
 
@@ -71,12 +72,16 @@ font-size: 15px;
 line-height: 35px;
 border-radius: 10px;
 width: 150%;
+margin-top: 10px;
 }
 .btn{
     width: 50%;
     height: 50px;
-    background-color: darkblue;
+    background-color: rgb(119, 119, 243);
     margin-left: 100px;
     border-radius: 10px;
-    color: white;
+    color: rgb(7, 7, 7);
+}
+#gender{
+    margin-top: 10px;
 }
