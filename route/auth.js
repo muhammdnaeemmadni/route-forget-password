@@ -17,8 +17,8 @@ router.post("/signup", (req, res, next) => {
             please send name, email, passwod, phone and gender in json body.
             e.g:
             {
-                "name": "Ahmer",
-                "email": "skahmer@gmail.com",
+                "name": "owais",
+                "email": "owais@gmail.com",
                 "password": "123",
                 "phone": "03462858293",
                 "gender": "Male"
